@@ -1,37 +1,31 @@
-# 🚀 About Me
+# 🚀 Acerca de mi
 
-Hi, I'm **José** ([@joseandotcom](https://x.com/joseandotcom) on X) — an independent **Webmaster & Web Management Specialist**.  
-I run **Joseando Webs**, where I provide **all-in-one web management services** under an annual subscription model, including:
+Hola, Soy **José** — **Webmaster independiente**. Me encargo de que los sitios web de mis clientes
+funcionen, se vean bien y no den problemas — todo bajo un modelo de suscripción anual para no andar apagando incendios cada mes.
 
-- 🎨 Web design & development (WordPress + Bricks Builder)  
-- ⚡ Performance optimization (WPO) & SEO On Page  
-- 🔒 Security, updates & maintenance  
-- 🛠️ Premium tools & licenses included  
+Trabajo principalmente con WordPress, Bricks Builder y un stack que incluye
+Cloudflare, Vultr y n8n.
 
 ---
 
-## 💡 Other Projects
-- **labiozona.com** → Science communication platform (blog, podcast, online congress, and community).   
-- **joseando.com** → My personal space for creativity, photography, tutorials, and more.  
+## Proyectos propios
+
+- **[labiozona.com](https://labiozona.com)** — Divulgación científica: blog, podcast y comunidad.
+- **[joseando.com](https://joseando.com)** — Mi espacio personal: tutoriales, fotografía y lo que se me ocurra.
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend & CMS** → WordPress, Bricks Builder, JetEngine  
-- **Automation** → n8n, Make, FluentCRM, Telegram Bots  
-- **Infrastructure** → xCloud (Vultr), Cloudflare, Wasabi  
-- **Design & Media** → Affinity Suite, DaVinci Resolve, Sony Alpha  
+## Stack
+
+`WordPress` `Bricks Builder` `JetEngine` `n8n` `Make` `Cloudflare` `Vultr` `Wasabi`
 
 ---
 
-## 🌱 Currently Learning
-- Blender 3D modeling for creative/scientific projects  
-- Improving my English & digital marketing skills  
-- Photography as a hobby (landscapes, macro, astrophotography)  
+## Ahora mismo
+
+Descubriendo Lovable ⚡ — tengo ideas acumuladas y por fin una forma de plasmarlas.
+Fotografiando lo que puedo en 📷 [@joseandotcom](https://www.instagram.com/joseandotcom)
 
 ---
 
-## 🤝 Let’s Connect
-- 🌐 [joseandowebs.com](https://joseandowebs.com) – My web management studio  
-- 📝 [joseando.com](https://joseando.com) – Personal blog & creative projects  
-- 🐦 [@joseandopro](https://x.com/joseandotcom) – Twitter/X  
+🐦 [@joseandotcom](https://x.com/joseandotcom)
